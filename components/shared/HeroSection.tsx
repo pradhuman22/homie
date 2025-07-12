@@ -13,7 +13,7 @@ const HeroSection = () => {
             <div className="space-y-8">
               <div className="text-center lg:text-left">
                 <h1 className="mb-6 text-4xl leading-tight font-bold text-gray-900 md:text-5xl lg:text-6xl">
-                  Find Your Perfect Shared Living Space
+                  Find Your Perfect Shared Rental Space
                 </h1>
                 <p className="text-muted-foreground mb-8 max-w-xl text-lg">
                   Discover comfortable, affordable rooms in shared houses with like-minded people.
