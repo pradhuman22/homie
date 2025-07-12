@@ -59,6 +59,7 @@ const HeroSection = () => {
                   fill
                   className="object-cover"
                   priority
+                  sizes="(min-width: 1040px) 600px, (min-width: 460px) calc(100vw - 32px), 383px"
                 />
               </div>
             </div>
